@@ -4,6 +4,8 @@
 
 本项目完全参考[anonymous5l/ncmdump](https://github.com/anonymous5l/ncmdump)实现，起初是为了能在windows下快速编译和运行
 
+[**点击下载软件**](https://github.com/Radium-bit/ncmdump/releases/download/1.0.0/main.exe)
+
 ## 如何使用？
 
 - 下载可执行程序[ncmdump](https://github.com/yoki123/ncmdump/releases)，将ncm文件或文件夹拖到执行程序`main.exe`上即可
